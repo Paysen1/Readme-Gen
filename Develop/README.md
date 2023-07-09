@@ -1,8 +1,8 @@
 
-# Paysens Aweseome Project!
+# Paysen
 
 ## Description
-I am learning Lots of things about Node Js
+Very cool node practice
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,10 +13,10 @@ I am learning Lots of things about Node Js
 - [Questions](#questions)
 
 ## Installation
-Yes
+do things
 
 ## Usage
-no
+yes
 
 
 ## License
@@ -26,10 +26,10 @@ This application is covered under the MIT license. For more information, see the
 
 
 ## Contributing
-yes
+Me myself and I
 
 ## Tests
-yes
+Type em out
 
 ## Questions
 For additional questions, you can reach me through:
